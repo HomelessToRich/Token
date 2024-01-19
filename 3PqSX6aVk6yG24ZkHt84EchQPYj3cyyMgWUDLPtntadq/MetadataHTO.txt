@@ -1,0 +1,21 @@
+{
+      "chainId": 101,
+      "address": "3PqSX6aVk6yG24ZkHt84EchQPYj3cyyMgWUDLPtntadq",
+      "symbol": "HTO",
+      "name": "Homeless To Rich",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/HomelessToRich/Token/main/3PqSX6aVk6yG24ZkHt84EchQPYj3cyyMgWUDLPtntadq/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "description": "Literally a homeless dog who will be rich and create a new generation of rich people in Solana.",
+        "telegram": "https://t.me/+utGN3wU6uXY0ZDgx",
+        "twitter": "https://twitter.com/HomelessToRich",
+        "website": "https://homelesstorich.fun"
+      }
+    }
+
+
+
+metaboss create metadata -a 3PqSX6aVk6yG24ZkHt84EchQPYj3cyyMgWUDLPtntadq -m hto.json
